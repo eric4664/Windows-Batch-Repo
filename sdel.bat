@@ -1,0 +1,1 @@
+sdelete %1 -p 7 -s
